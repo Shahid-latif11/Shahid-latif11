@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad Shahid Latif
+- 👋 Hi, I’m Muhammad Shahid Latif
 - 👀 I’m interested in becoming a good web developer 
 - 🌱 I’m currently improving my skill of web development
 
